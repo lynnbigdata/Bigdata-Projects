@@ -1,0 +1,8 @@
+서울 : https://data.seoul.go.kr
+경기 : https://data.gg.go.kr/portal/mainPage.do
+부산 : https://data.busan.go.kr/index.nm
+대구 : https://data.daegu.go.kr
+대전 : https://www.daejeon.go.kr/pubc/
+인천 : https://www.incheon.go.kr/data/index
+제주 : https://www.jejudatahub.net/
+광주 : http://bigdata.gwangju.go.kr/tour/index.html#/tour/mapservice?1
